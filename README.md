@@ -43,7 +43,7 @@ Para rodar o projeto, pode-se optar por duas alternativas: ultilizar as estrutur
       * No Swagger, execute o end-point "Scrapper" para popular o banco, e em seguida utilize os outros end-points conforme desenjar.
       
    ### Rodando com Docker Compose
-      * Copie os arquivos presentes na pasta "Arquivos Docker" para sua máquina;
+      * Copie os arquivos presentes na pasta "DockerFiles" para sua máquina;
       * Caso queira rodar com MongoDb, utilize o comando: "docker compose -f .\Docker-Compose-MongoDb.yml up -d" e acesse "http://localhost:44318/swagger/index.html" para utilizar o Swagger;
       * Caso queira rodar com MySql, utilize o comando: "docker compose -f .\Docker-Compose-MySql.yml up -d" "http://localhost:44319/swagger/index.html" para utilizar o Swagger;
       
