@@ -1,0 +1,31 @@
+version: '3.8'
+services:
+  db:
+    image: weegedocker/foodmysqldb
+    command: --default-authentication-plugin=mysql_native_password
+    container_name: dbfoodscrapper_mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: RootPassword 
+      MYSQL_DATABASE: foodscrapper 
+    cap_add:
+      - SYS_NICE
+    networks: 
+      - foodnetwork
+  api:
+    image: weegedocker/foodscrapperapi
+    container_name: foodscrapper_api
+    restart: always
+    environment:
+      MySqlConnectionString: server=db;DataBase=foodscrapper;Uid=root;Pwd=RootPassword;
+      IsMySqlDataBase: true
+    ports:
+      - "44318:80"
+    depends_on:
+      - db
+    networks: 
+      - foodnetwork
+networks:
+  foodnetwork:
+    name: foodnetwork
+    driver: bridge

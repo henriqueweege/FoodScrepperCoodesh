@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FoodScrapper.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:FoodScrapper.WebApi.Controllers.OpenFoodController.GetMessage">
+             <summary>
+            Get message.
+             </summary>
+             <returns>
+             </returns>
+        </member>
+        <member name="M:FoodScrapper.WebApi.Controllers.OpenFoodController.GetByCode(System.String)">
+             <summary>
+            Get product by code.
+             </summary>
+             <returns>
+             /// </returns>
+        </member>
+        <member name="M:FoodScrapper.WebApi.Controllers.OpenFoodController.GetAll(System.Int32,System.Int32)">
+             <summary>
+            Get all products.
+             </summary>
+             <returns>
+             </returns>
+        </member>
+        <member name="M:FoodScrapper.WebApi.Controllers.ScrapperController.ScrapOpenFood">
+             <summary>
+            Starts the scrapping processes.
+             </summary>
+             <returns>
+             200 - success;
+             404 - bad request;
+             500 - server error;
+             </returns>
+        </member>
+    </members>
+</doc>

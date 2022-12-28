@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Rlh5B+A2v4/Lce38TDtYnCc7yPiuvR8qMfxI7JKTscI=",
+  "Source": "FoodScrapper.WebApi",
+  "BasePath": "_content/FoodScrapper.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

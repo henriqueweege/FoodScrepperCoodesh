@@ -1,0 +1,12 @@
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\bin\Debug\net7.0\OpenFood.Repository.deps.json
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\bin\Debug\net7.0\OpenFood.Repository.dll
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\bin\Debug\net7.0\OpenFood.Repository.pdb
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\obj\Debug\net7.0\OpenFood.Repository.csproj.AssemblyReference.cache
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\obj\Debug\net7.0\OpenFood.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\obj\Debug\net7.0\OpenFood.Repository.AssemblyInfoInputs.cache
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\obj\Debug\net7.0\OpenFood.Repository.AssemblyInfo.cs
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\obj\Debug\net7.0\OpenFood.Repository.csproj.CoreCompileInputs.cache
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\obj\Debug\net7.0\OpenFood.Repository.dll
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\obj\Debug\net7.0\refint\OpenFood.Repository.dll
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\obj\Debug\net7.0\OpenFood.Repository.pdb
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\obj\Debug\net7.0\ref\OpenFood.Repository.dll

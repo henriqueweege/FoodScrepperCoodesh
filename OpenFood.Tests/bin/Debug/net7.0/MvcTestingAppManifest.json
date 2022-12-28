@@ -1,0 +1,6 @@
+{
+  "FoodScrapper.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\desktop\\Biblioteca de Projetos\\OpenFood.WebApi\\OpenFood.Domain",
+  "FoodScrapper.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\desktop\\Biblioteca de Projetos\\OpenFood.WebApi\\OpenFood.Services",
+  "FoodScrapper.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\desktop\\Biblioteca de Projetos\\OpenFood.WebApi\\OpenFood.Repository",
+  "FoodScrapper.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\desktop\\Biblioteca de Projetos\\OpenFood.WebApi\\OpenFood.WebApi"
+}

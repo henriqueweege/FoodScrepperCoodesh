@@ -1,0 +1,12 @@
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\bin\Debug\net7.0\OpenFood.Domain.deps.json
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\bin\Debug\net7.0\OpenFood.Domain.dll
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\bin\Debug\net7.0\OpenFood.Domain.pdb
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\obj\Debug\net7.0\OpenFood.Domain.csproj.AssemblyReference.cache
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\obj\Debug\net7.0\OpenFood.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\obj\Debug\net7.0\OpenFood.Domain.AssemblyInfoInputs.cache
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\obj\Debug\net7.0\OpenFood.Domain.AssemblyInfo.cs
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\obj\Debug\net7.0\OpenFood.Domain.csproj.CoreCompileInputs.cache
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\obj\Debug\net7.0\OpenFood.Domain.dll
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\obj\Debug\net7.0\refint\OpenFood.Domain.dll
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\obj\Debug\net7.0\OpenFood.Domain.pdb
+D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\obj\Debug\net7.0\ref\OpenFood.Domain.dll
