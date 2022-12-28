@@ -17,3 +17,22 @@ D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\obj\Debug\
 D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\obj\Debug\net7.0\FoodScrapper.Repository.pdb
 D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\obj\Debug\net7.0\FoodScrapper.Repository.genruntimeconfig.cache
 D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Repository\obj\Debug\net7.0\ref\FoodScrapper.Repository.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\bin\Debug\net7.0\FoodScrapper.Repository.deps.json
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\bin\Debug\net7.0\FoodScrapper.Repository.runtimeconfig.json
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\bin\Debug\net7.0\FoodScrapper.Repository.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\bin\Debug\net7.0\FoodScrapper.Repository.pdb
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\bin\Debug\net7.0\FoodScrapper.Domain.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\bin\Debug\net7.0\FoodScrapper.Infrastructure.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\bin\Debug\net7.0\FoodScrapper.Domain.pdb
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\bin\Debug\net7.0\FoodScrapper.Infrastructure.pdb
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\obj\Debug\net7.0\FoodScrapper.Repository.csproj.AssemblyReference.cache
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\obj\Debug\net7.0\FoodScrapper.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\obj\Debug\net7.0\FoodScrapper.Repository.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\obj\Debug\net7.0\FoodScrapper.Repository.AssemblyInfo.cs
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\obj\Debug\net7.0\FoodScrapper.Repository.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\obj\Debug\net7.0\FoodScrapper.Repository.csproj.CopyComplete
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\obj\Debug\net7.0\FoodScrapper.Repository.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\obj\Debug\net7.0\refint\FoodScrapper.Repository.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\obj\Debug\net7.0\FoodScrapper.Repository.pdb
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\obj\Debug\net7.0\FoodScrapper.Repository.genruntimeconfig.cache
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Repository\obj\Debug\net7.0\ref\FoodScrapper.Repository.dll

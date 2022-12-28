@@ -28,3 +28,18 @@ D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Services\obj\Debug\ne
 D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Services\obj\Debug\net7.0\refint\FoodScrapper.Infrastructure.dll
 D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Services\obj\Debug\net7.0\FoodScrapper.Infrastructure.pdb
 D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Services\obj\Debug\net7.0\ref\FoodScrapper.Infrastructure.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\bin\Debug\net7.0\FoodScrapper.Infrastructure.deps.json
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\bin\Debug\net7.0\FoodScrapper.Infrastructure.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\bin\Debug\net7.0\FoodScrapper.Infrastructure.pdb
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\bin\Debug\net7.0\FoodScrapper.Domain.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\bin\Debug\net7.0\FoodScrapper.Domain.pdb
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\obj\Debug\net7.0\FoodScrapper.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\obj\Debug\net7.0\FoodScrapper.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\obj\Debug\net7.0\FoodScrapper.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\obj\Debug\net7.0\FoodScrapper.Infrastructure.AssemblyInfo.cs
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\obj\Debug\net7.0\FoodScrapper.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\obj\Debug\net7.0\FoodScrapper.Infrastructure.csproj.CopyComplete
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\obj\Debug\net7.0\FoodScrapper.Infrastructure.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\obj\Debug\net7.0\refint\FoodScrapper.Infrastructure.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\obj\Debug\net7.0\FoodScrapper.Infrastructure.pdb
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Services\obj\Debug\net7.0\ref\FoodScrapper.Infrastructure.dll

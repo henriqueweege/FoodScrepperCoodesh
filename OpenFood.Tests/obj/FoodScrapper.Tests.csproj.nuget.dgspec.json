@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Tests\\FoodScrapper.Tests.csproj": {}
+    "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Tests\\FoodScrapper.Tests.csproj": {}
   },
   "projects": {
-    "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj": {
+    "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj",
         "projectName": "FoodScrapper.Domain",
-        "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj",
+        "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Domain\\obj\\",
+        "outputPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj": {
+    "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj",
         "projectName": "FoodScrapper.Repository",
-        "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj",
+        "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Repository\\obj\\",
+        "outputPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -103,11 +103,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj": {
-                "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj"
+              "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj": {
+                "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj"
               },
-              "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj": {
-                "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj"
+              "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj"
               }
             }
           }
@@ -179,14 +179,14 @@
         }
       }
     },
-    "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj": {
+    "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj",
         "projectName": "FoodScrapper.Infrastructure",
-        "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\obj\\",
+        "outputPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -206,8 +206,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj": {
-                "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj"
+              "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj": {
+                "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj"
               }
             }
           }
@@ -263,14 +263,14 @@
         }
       }
     },
-    "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Tests\\FoodScrapper.Tests.csproj": {
+    "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Tests\\FoodScrapper.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Tests\\FoodScrapper.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Tests\\FoodScrapper.Tests.csproj",
         "projectName": "FoodScrapper.Tests",
-        "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Tests\\FoodScrapper.Tests.csproj",
+        "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Tests\\FoodScrapper.Tests.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Tests\\obj\\",
+        "outputPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -290,11 +290,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj": {
-                "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj"
+              "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj"
               },
-              "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj": {
-                "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj"
+              "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj": {
+                "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj"
               }
             }
           }
@@ -390,14 +390,14 @@
         }
       }
     },
-    "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj": {
+    "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj",
         "projectName": "FoodScrapper.WebApi",
-        "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj",
+        "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -417,11 +417,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj": {
-                "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj"
+              "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj": {
+                "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj"
               },
-              "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj": {
-                "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj"
+              "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj"
               }
             }
           }

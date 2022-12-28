@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5giKbIBm+SaBoUxKzQ7wlnw1o4bOjHsv4B77K4XAD+26FBTRsPD1N0Y0Wrkqh78FK0rIRpfNYPgqbPIyusAc/A==",
+  "dgSpecHash": "7/CS5TaEk6sfDqNtzQredw0IpcJEke4GzR1D8Dii8H8mHmYg4qqup7uzgW5oTJdQ41ynBOF4ibjMZbpvCZoVWw==",
   "success": true,
-  "projectFilePath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj",
+  "projectFilePath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henri\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\henri\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

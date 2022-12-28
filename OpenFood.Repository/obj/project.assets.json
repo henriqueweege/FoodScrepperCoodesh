@@ -6171,11 +6171,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj",
       "projectName": "FoodScrapper.Repository",
-      "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj",
+      "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Repository\\FoodScrapper.Repository.csproj",
       "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-      "outputPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Repository\\obj\\",
+      "outputPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6195,11 +6195,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj": {
-              "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj"
+            "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj": {
+              "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj"
             },
-            "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj": {
-              "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj"
+            "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj"
             }
           }
         }

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj",
       "projectName": "FoodScrapper.Domain",
-      "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj",
+      "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Domain\\FoodScrapper.Domain.csproj",
       "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-      "outputPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Domain\\obj\\",
+      "outputPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

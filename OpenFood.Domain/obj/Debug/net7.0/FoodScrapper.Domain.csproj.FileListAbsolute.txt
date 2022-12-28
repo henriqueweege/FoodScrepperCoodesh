@@ -10,3 +10,15 @@ D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\obj\Debug\net7
 D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\obj\Debug\net7.0\refint\FoodScrapper.Domain.dll
 D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\obj\Debug\net7.0\FoodScrapper.Domain.pdb
 D:\desktop\Biblioteca de Projetos\OpenFood.WebApi\OpenFood.Domain\obj\Debug\net7.0\ref\FoodScrapper.Domain.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Domain\bin\Debug\net7.0\FoodScrapper.Domain.deps.json
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Domain\bin\Debug\net7.0\FoodScrapper.Domain.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Domain\bin\Debug\net7.0\FoodScrapper.Domain.pdb
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Domain\obj\Debug\net7.0\FoodScrapper.Domain.csproj.AssemblyReference.cache
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Domain\obj\Debug\net7.0\FoodScrapper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Domain\obj\Debug\net7.0\FoodScrapper.Domain.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Domain\obj\Debug\net7.0\FoodScrapper.Domain.AssemblyInfo.cs
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Domain\obj\Debug\net7.0\FoodScrapper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Domain\obj\Debug\net7.0\FoodScrapper.Domain.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Domain\obj\Debug\net7.0\refint\FoodScrapper.Domain.dll
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Domain\obj\Debug\net7.0\FoodScrapper.Domain.pdb
+C:\Users\henri\Desktop\outra pasta\FoodScrepperCoodesh\OpenFood.Domain\obj\Debug\net7.0\ref\FoodScrapper.Domain.dll

@@ -11070,11 +11070,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Tests\\FoodScrapper.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Tests\\FoodScrapper.Tests.csproj",
       "projectName": "FoodScrapper.Tests",
-      "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Tests\\FoodScrapper.Tests.csproj",
+      "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Tests\\FoodScrapper.Tests.csproj",
       "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-      "outputPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Tests\\obj\\",
+      "outputPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11094,11 +11094,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj": {
-              "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj"
+            "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.Services\\FoodScrapper.Infrastructure.csproj"
             },
-            "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj": {
-              "projectPath": "C:\\teste scrapper\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj"
+            "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj": {
+              "projectPath": "C:\\Users\\henri\\Desktop\\outra pasta\\FoodScrepperCoodesh\\OpenFood.WebApi\\FoodScrapper.WebApi.csproj"
             }
           }
         }
